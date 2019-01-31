@@ -10,6 +10,8 @@ namespace _31jan2019
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Gagan IS INDEPENDENT");
+            Console.ReadLine();
         }
     }
 }
